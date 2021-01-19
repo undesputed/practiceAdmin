@@ -1,0 +1,16 @@
+export const LANDING = '/'
+export const LOGIN = '/login';
+export const REGISTER = '/signup';
+export const DASHBOARD = '/home';
+export const HISTORY = '/history';
+export const ORDERS = '/orders';
+export const INVENTORY = '/inventory';
+export const USERMANAGEMENT = '/usermgt';
+export const NOTIFICATION = '/notification';
+export const CART = '/cart';
+export const BADORDERS = '/badorders';
+export const SALESREPORT = '/salesreport';
+export const REPORTS = '/reports';
+export const COMMENTS = '/comments';
+export const MESSAGES = '/messages';
+export const WISHLISTS = '/wishlists';
